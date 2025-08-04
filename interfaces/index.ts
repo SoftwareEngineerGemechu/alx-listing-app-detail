@@ -20,4 +20,4 @@ export interface Address {
     image: string;
     images?: string[];
     reviews?: Review[];
-  }
+}
